@@ -31,3 +31,5 @@ Open the project in Godot and run the main scene.
 ## Gameplay Screenshot
 
 ![Gameplay](gameplay.png)
+
+This project was created as part of my learning process in game development
