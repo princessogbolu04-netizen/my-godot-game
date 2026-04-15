@@ -27,3 +27,7 @@ Work in progress project created for learning game development and portfolio pur
 
 ## How to Run
 Open the project in Godot and run the main scene.
+
+## Gameplay Screenshot
+
+![Gameplay](gameplay.png)
